@@ -1,0 +1,3 @@
+/Users/shahinuralambhuiyan/Desktop/C++/HelloWorld/cmake-build-debug/CMakeFiles/HelloWorld.dir
+/Users/shahinuralambhuiyan/Desktop/C++/HelloWorld/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shahinuralambhuiyan/Desktop/C++/HelloWorld/cmake-build-debug/CMakeFiles/rebuild_cache.dir
